@@ -1,1 +1,2 @@
 Device ID  | key | Duration
+STR-2AEB3675 | 67Y8CZ3GOAAKDOYN | 90 Days
