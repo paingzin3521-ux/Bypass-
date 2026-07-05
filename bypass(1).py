@@ -20,10 +20,10 @@ from Crypto.Random import get_random_bytes
 
 r, g, y, b, w, c = "\033[1;31m", "\033[1;32m", "\033[1;33m", "\033[1;34m", "\033[0m", "\033[1;36m"
 
-TARGET_URL = "bypassလုပ်မယ့် session url ထည့်"
+TARGET_URL = "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=105f024b7b2b&gw_sn=H1T8105002249&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.111&mac=8e:ca:6d:ca:50:40&slot_num=13&nasip=192.168.1.156&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2F192.168.0.1%2F&chap_id=%5C042&chap_challenge=%5C253%5C052%5C352%5C362%5C226%5C047%5C370%5C177%5C236%5C211%5C101%5C175%5C077%5C273%5C213%5C104"
 
-TELEGRAM_BOT_TOKEN = "" 
-TELEGRAM_CHAT_ID = ""
+TELEGRAM_BOT_TOKEN = "8925330111:AAENQVXvtjKxFSlnQZ4HuaQAwMwvBnurOBM" 
+TELEGRAM_CHAT_ID = "8687294457"
 
 RAW_KEY_LINK = "https://raw.githubusercontent.com/paingzin3521-ux/Bypass-/main/keys.txt"
 
